@@ -6,10 +6,9 @@
 //
 
 import SwiftUI
-@available(iOS 15, *)
-@available(iOS 15, *)
+
 @main
-struct VPNApp: App {
+struct VPNUIApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
